@@ -1,0 +1,41 @@
+name: healthcare-evidence
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: evidence
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-evidence_local}
+      POSTGRES_DB: evidence
+    ports:
+      - "127.0.0.1:55432:5432"
+    volumes:
+      - evidence-postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U evidence -d evidence"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+  api:
+    build: .
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql+psycopg://evidence:${POSTGRES_PASSWORD:-evidence_local}@postgres:5432/evidence
+    ports:
+      - "127.0.0.1:8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health')"]
+      interval: 10s
+      timeout: 3s
+      retries: 10
+  web:
+    build: ../frontend
+    ports:
+      - "127.0.0.1:5173:80"
+    depends_on:
+      api:
+        condition: service_healthy
+volumes:
+  evidence-postgres:

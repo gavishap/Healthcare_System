@@ -1,0 +1,17 @@
+[
+  {
+    "folder": "backend",
+    "source_commit": "286103f1651355ac751fd60616efac876d5c609a",
+    "publication": "working-tree snapshot; original Git object directories are not embedded"
+  },
+  {
+    "folder": "frontend",
+    "source_commit": "88cb8771f01b4e8ea643a6b6d5b3b8c20b10f73f",
+    "publication": "working-tree snapshot; original Git object directories are not embedded"
+  },
+  {
+    "folder": "omnia-vault",
+    "source_commit": "cb1eef153b9d0839e20591569b206af3064ff0dc",
+    "publication": "working-tree snapshot; original Git object directories are not embedded"
+  }
+]

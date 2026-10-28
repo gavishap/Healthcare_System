@@ -1,0 +1,20 @@
+[
+  {
+    "source": "clinicaltrials",
+    "status": "ok",
+    "top_level_fields": [
+      "studies",
+      "nextPageToken"
+    ],
+    "meaning": "One public GET succeeded; this is not clinical validation or an application integration test."
+  },
+  {
+    "source": "pubmed",
+    "status": "ok",
+    "top_level_fields": [
+      "header",
+      "esearchresult"
+    ],
+    "meaning": "One public GET succeeded; this is not clinical validation or an application integration test."
+  }
+]

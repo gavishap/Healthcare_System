@@ -1,0 +1,21 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "286039",
+    "retmax": "1",
+    "retstart": "0",
+    "idlist": [
+      "42945374"
+    ],
+    "translationset": [
+      {
+        "from": "type 2 diabetes",
+        "to": "\"diabetes mellitus, type 2\"[MeSH Terms] OR \"type 2 diabetes mellitus\"[All Fields] OR \"type 2 diabetes\"[All Fields]"
+      }
+    ],
+    "querytranslation": "\"diabetes mellitus, type 2\"[MeSH Terms] OR \"type 2 diabetes mellitus\"[All Fields] OR \"type 2 diabetes\"[All Fields]"
+  }
+}

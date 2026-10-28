@@ -1,0 +1,203 @@
+{
+  "captured_at_utc": "2026-10-28T00:43:33.599529+00:00",
+  "primary_project_chat_count": 5,
+  "codex_session_count": 9,
+  "claude_session_count": 4,
+  "sessions": [
+    {
+      "id": "01a17f7f-048c-71e2-ad6e-67da966de54b",
+      "provider": "Codex",
+      "title": "Clone Omnia vault",
+      "file": "Codex/Clone-Omnia-vault-01a17f7f.md",
+      "tool_archive": "Codex/Clone-Omnia-vault-01a17f7f.jsonl",
+      "messages": 12,
+      "visible_records": 64,
+      "omitted_private_or_internal_record_types": {
+        "additional_tools": 1,
+        "message": 9,
+        "reasoning": 24
+      },
+      "file_sha256": "a9d0e7b9ad6f268b0463686004e31a4c25a46629e07d9fcccdb5b5e7e64291d8",
+      "tool_archive_sha256": "289c9cd3c23b423add126060acccdfb2ac70261e19329ae89ba4edcd586d8a07"
+    },
+    {
+      "id": "01a17f82-d486-7a73-adcc-5d6905209b80",
+      "provider": "Codex",
+      "title": "Plan application architecture",
+      "file": "Codex/Plan-application-architecture-01a17f82.md",
+      "tool_archive": "Codex/Plan-application-architecture-01a17f82.jsonl",
+      "messages": 28,
+      "visible_records": 192,
+      "omitted_private_or_internal_record_types": {
+        "additional_tools": 1,
+        "message": 12,
+        "reasoning": 128
+      },
+      "file_sha256": "f81a54ed044c81c8fe155a5e034d1b1abe2b7d7609a98ecc5f65dc401b43aa16",
+      "tool_archive_sha256": "38d4f7435aa1543bc1846f65ae96e6ba792edb7d0b78f436f41b6da77572e177"
+    },
+    {
+      "id": "01a17f86-d367-7821-9d2f-9a54667f3a7a",
+      "provider": "Codex",
+      "title": "Supporting council session 01a17f86-d367-7821-9d2f-9a54667f3a7a",
+      "file": "Council/Council-01a17f86-d367-7821-9d2f-9a54667f3a7a.md",
+      "tool_archive": "Council/Council-01a17f86-d367-7821-9d2f-9a54667f3a7a.jsonl",
+      "messages": 3,
+      "visible_records": 3,
+      "omitted_private_or_internal_record_types": {
+        "message": 3,
+        "reasoning": 1
+      },
+      "file_sha256": "f4e535c49521fafda8ac36529c263c5c3649585a6be80af8ecc76c792e32bf63",
+      "tool_archive_sha256": "328024a362579d401150edd183fd647ecda80d4a155317f324109e447c25a41b"
+    },
+    {
+      "id": "01a17f86-eb50-7480-9d40-5428b5991768",
+      "provider": "Codex",
+      "title": "Supporting council session 01a17f86-eb50-7480-9d40-5428b5991768",
+      "file": "Council/Council-01a17f86-eb50-7480-9d40-5428b5991768.md",
+      "tool_archive": "Council/Council-01a17f86-eb50-7480-9d40-5428b5991768.jsonl",
+      "messages": 3,
+      "visible_records": 3,
+      "omitted_private_or_internal_record_types": {
+        "message": 3,
+        "reasoning": 1
+      },
+      "file_sha256": "9203f71cae2bc6fd90bee75af14107ee029d3b6dd30fd18fa7c67aabeef6db10",
+      "tool_archive_sha256": "f3f71d05a894ffdd004087c1ac75b30fa19ee7dbc924a4d18d8e8168a0649f62"
+    },
+    {
+      "id": "01a17f86-eb1c-7492-8b9e-11c6f4afb22f",
+      "provider": "Codex",
+      "title": "Supporting council session 01a17f86-eb1c-7492-8b9e-11c6f4afb22f",
+      "file": "Council/Council-01a17f86-eb1c-7492-8b9e-11c6f4afb22f.md",
+      "tool_archive": "Council/Council-01a17f86-eb1c-7492-8b9e-11c6f4afb22f.jsonl",
+      "messages": 3,
+      "visible_records": 3,
+      "omitted_private_or_internal_record_types": {
+        "message": 3,
+        "reasoning": 2
+      },
+      "file_sha256": "2e3dcc6c88ff8a1e68476fc1b25f028e3666f8929c6d2bff3a6764ca2cb31ed5",
+      "tool_archive_sha256": "0490bc36513219d32f6291164386983d85bc42c188c40bda485b7b1a673fc472"
+    },
+    {
+      "id": "01a17f8c-653e-76f1-9471-de920324503b",
+      "provider": "Codex",
+      "title": "Supporting council session 01a17f8c-653e-76f1-9471-de920324503b",
+      "file": "Council/Council-01a17f8c-653e-76f1-9471-de920324503b.md",
+      "tool_archive": "Council/Council-01a17f8c-653e-76f1-9471-de920324503b.jsonl",
+      "messages": 3,
+      "visible_records": 3,
+      "omitted_private_or_internal_record_types": {
+        "message": 3,
+        "reasoning": 1
+      },
+      "file_sha256": "37256fd5176ce41168cdabbaf05071e4af83dcaa58d264294e521e1a99ada6b9",
+      "tool_archive_sha256": "946fb6ccddd9b2c596cd1dc6fd2bbd26e6df103545e242879cce020cdd497dfe"
+    },
+    {
+      "id": "01a17f94-97bb-7101-8178-8d33c4b16ebd",
+      "provider": "Codex",
+      "title": "Draft sourcing layer action plan",
+      "file": "Codex/Draft-sourcing-layer-action-plan-01a17f94.md",
+      "tool_archive": "Codex/Draft-sourcing-layer-action-plan-01a17f94.jsonl",
+      "messages": 20,
+      "visible_records": 86,
+      "omitted_private_or_internal_record_types": {
+        "additional_tools": 1,
+        "message": 10,
+        "reasoning": 33
+      },
+      "file_sha256": "a6783c4cbc7c98bdab465ee2c2657c95f07422889c54ba86eb9fde211767cd8a",
+      "tool_archive_sha256": "8560da91a73962f86612ab7a9fb05e01768cf8e2cf0d0c1a53321ffd622d4054"
+    },
+    {
+      "id": "01a17fc0-73fd-71d3-9be3-22b0056eff03",
+      "provider": "Codex",
+      "title": "Trace trial result mismatch",
+      "file": "Codex/Trace-trial-result-mismatch-01a17fc0.md",
+      "tool_archive": "Codex/Trace-trial-result-mismatch-01a17fc0.jsonl",
+      "messages": 16,
+      "visible_records": 130,
+      "omitted_private_or_internal_record_types": {
+        "additional_tools": 1,
+        "message": 9,
+        "reasoning": 63
+      },
+      "file_sha256": "beb60e3628343d26b54c0974ed3ec8473949f18f87da7ca676035900c78af451",
+      "tool_archive_sha256": "8c3d4be95a3b65007904f7e8ce8c8ceffbdd705fbf275f002beb5520e73d47d3"
+    },
+    {
+      "id": "01a17fd1-feee-7571-ab62-d4565ede1ab6",
+      "provider": "Codex",
+      "title": "Create client pitch presentation",
+      "file": "Codex/Create-client-pitch-presentation-01a17fd1.md",
+      "tool_archive": "Codex/Create-client-pitch-presentation-01a17fd1.jsonl",
+      "messages": 24,
+      "visible_records": 191,
+      "omitted_private_or_internal_record_types": {
+        "additional_tools": 1,
+        "message": 9,
+        "reasoning": 92
+      },
+      "file_sha256": "5753949832d87c5afb3b187245dd76cf678ae22b218c5e23dfa3334c0c1d4a12",
+      "tool_archive_sha256": "7052eb9887b4b268111eee4c445002f81c793e322c300c3519ffc7f7bbe204a4"
+    },
+    {
+      "id": "1681ca8a-3841-472b-aced-b232179c670f",
+      "provider": "Claude",
+      "title": "Claude council attempt 1681ca8a",
+      "file": "Claude/1681ca8a-3841-472b-aced-b232179c670f.md",
+      "tool_archive": "Claude/1681ca8a-3841-472b-aced-b232179c670f.jsonl",
+      "messages": 2,
+      "visible_records": 2,
+      "omitted_private_or_internal_record_types": {},
+      "file_sha256": "e9cd1d8e1a6633161d3697ca7072c21bce87daccf925aecf22a0d130674fb078",
+      "tool_archive_sha256": "d1b6f93d98f993b4a0876524b8d9bee329887330011096c840e37d674cb4ff28"
+    },
+    {
+      "id": "88206ce6-8581-40a0-ad32-8c5bfdd1a3ca",
+      "provider": "Claude",
+      "title": "Claude council attempt 88206ce6",
+      "file": "Claude/88206ce6-8581-40a0-ad32-8c5bfdd1a3ca.md",
+      "tool_archive": "Claude/88206ce6-8581-40a0-ad32-8c5bfdd1a3ca.jsonl",
+      "messages": 2,
+      "visible_records": 2,
+      "omitted_private_or_internal_record_types": {},
+      "file_sha256": "022daa58039aa5d85d64759c252cbb93c4cf1ab698c746f8d66fb851918d4bc9",
+      "tool_archive_sha256": "9f61b94873ecd9943015f27e0c646888821e69dcd2489a6d4e9ed2d36bf5155b"
+    },
+    {
+      "id": "96e39882-cdb6-4145-80d9-ad35aa2587f2",
+      "provider": "Claude",
+      "title": "Claude council attempt 96e39882",
+      "file": "Claude/96e39882-cdb6-4145-80d9-ad35aa2587f2.md",
+      "tool_archive": "Claude/96e39882-cdb6-4145-80d9-ad35aa2587f2.jsonl",
+      "messages": 2,
+      "visible_records": 2,
+      "omitted_private_or_internal_record_types": {},
+      "file_sha256": "2c29cf2ed177afcf2f7f489f54a96b68912ee690737afde57dc7facde0cda40c",
+      "tool_archive_sha256": "8cdaa7623206325c81e5303076a0447a0a25ca8f93145fe8122b2644836eb85e"
+    },
+    {
+      "id": "ed277d18-94b1-4b6e-b71f-6431adfa9919",
+      "provider": "Claude",
+      "title": "Claude council attempt ed277d18",
+      "file": "Claude/ed277d18-94b1-4b6e-b71f-6431adfa9919.md",
+      "tool_archive": "Claude/ed277d18-94b1-4b6e-b71f-6431adfa9919.jsonl",
+      "messages": 2,
+      "visible_records": 2,
+      "omitted_private_or_internal_record_types": {},
+      "file_sha256": "2eced90717bf46a3faa358a9a0fb70de5bfd60ee43356f620d4d75270c09466f",
+      "tool_archive_sha256": "c59dfe7570a4d6e32df8e30cebca019f0f17b7030d70d46cd69a16c7a93a227f"
+    }
+  ],
+  "redactions": {
+    "pattern_credential": 0,
+    "binary_media": 0,
+    "device_code": 0,
+    "known_credential": 4
+  },
+  "archive_boundary": "Available local human/assistant conversation and visible tool records. Private internal reasoning, system/developer scaffolding, credentials and inline media bytes are excluded. Current active chat is a snapshot through the capture time."
+}

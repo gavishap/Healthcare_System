@@ -1,0 +1,11 @@
+As an outsider, I would choose **one TypeScript full-stack service** for both the two-hour prototype and the initial product. One language, shared schemas, and one deployment keep the prototype achievable without creating a separate architecture to replace later. A typed Python API plus React becomes attractive when substantial Python-specific analysis justifies the extra boundary.
+
+For two hours, build one complete path: condition input, retrieval from a small approved source set, an evidence table, and a cited briefing covering care landscape, emerging therapies, and organizations. Keep the source documents and retrieval dates. Streamlit/n8n can demonstrate the flow quickly, but offers a weaker starting point for the intended product experience. Autonomous multi-agent orchestration adds coordination and debugging costs before its benefit is established.
+
+**Deterministic code should own the evidence contract:** source permissions, retrieval, document identifiers, provenance, citation resolution, structured validation, retries, and execution budgets. Keep trial phase, regulatory status, evidence strength, geography, and observation date as separate fields. Every substantive claim must reference a stored evidence passage; unsupported fields remain unknown. Citation checks establish traceability; semantic support still needs evaluation and selective human review.
+
+The LLM should interpret the condition, propose searches, request allowlisted tools through validated schemas, extract candidate facts, reconcile conflicting findings, and synthesize the briefing. It must preserve uncertainty and distinguish reported results from strategic interpretation. Tool permissions and publication checks remain outside the model.
+
+For the product, add durable storage, background jobs, access controls, and evaluation datasets while retaining this division.
+
+POSITION: Build a single TypeScript service with deterministic evidence controls and a bounded LLM research loop, expanding the architecture only when measured needs justify it.

@@ -1,0 +1,13 @@
+I prefer **C: a single Streamlit application with typed Python contracts and separate retrieval, evidence-policy, and presentation modules**. With no application code or credentials available, this offers the strongest chance of a truthful demonstration within 120 minutes. A and B offer cleaner full-stack foundations but consume time on service and UI integration. n8n is useful if already configured; its optional availability provides little scheduling certainty. D adds coordination, latency, and verification work without improving evidence authority.
+
+Scope the demonstration to **one explicitly supported condition and a US jurisdiction assumption**, with alias confirmation. Use a small, builder-curated baseline from accessible authoritative guidelines and relevant regulatory/publication records, plus one bounded live ClinicalTrials.gov integration for emerging treatments and sponsor mapping. Display missing coverage openly.
+
+Apply deterministic source-type, study-stage, jurisdiction, and metadata rules. Preserve source identifiers, locators, snapshots, dates, claim links, evidence-family duplicates, conflicts, and exclusions. Any ordering remains provisional pending expert review. Registry entries describe development activity; they cannot establish efficacy or approval.
+
+The LLM may draft a structured summary from admitted evidence if gateway access works. Keep a deterministic briefing template available. Allow at most one bounded synthesis call; server functions own retrieval and validation. Use fixed upstream hosts, typed parameters, server-held keys, and source text treated as untrusted data.
+
+Allocate 15 minutes to access checks and scope, 25 to evidence and contracts, 35 to live retrieval, 25 to briefing and provenance views, and 20 to failure handling and rehearsal. Replay carries original retrieval timestamps and a prominent label. Keep the pitch slide outside this build budget.
+
+The biggest failure mode is unsupported standard-of-care coverage disguised by polished synthesis. Reusable modules provide the later migration path to FastAPI and React.
+
+POSITION: Ship a narrow Streamlit evidence briefing with one live integration, explicit coverage limits, and an optional bounded LLM summary.

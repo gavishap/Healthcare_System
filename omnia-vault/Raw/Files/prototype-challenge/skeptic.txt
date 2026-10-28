@@ -1,0 +1,15 @@
+The fatal flaw is promising an arbitrary-condition briefing before proving access to current, applicable guidelines. PubMed, trial registries, and approval records cannot collectively substitute for that missing coverage. A polished synthesis could therefore mislabel emerging research as standard care while displaying impeccable citations. Schema validation and model agreement would not catch this category error.
+
+I prefer **C: a Streamlit prototype with typed Python contracts and a bounded workflow**, with A as the expansion path. A and B are credible application architectures, but their additional setup earns little until the evidence workflow works. D adds unpredictable retrieval, cost, and coordination without resolving authority or completeness.
+
+Try to kill the approach before building its presentation:
+
+1. Select one condition and verify accessible US guideline coverage, including subtype and currency. If coverage fails, change the supported scope or explicitly leave standard care unresolved.
+2. Produce one inspectable claim-to-source record manually. Require source identifiers, supporting passages or locators, relevant dates, jurisdiction, and evidence-family links.
+3. Implement bounded retrieval and deterministic source classification. Preserve contradictions and exclusions; avoid an aggregate confidence score that suggests calibration.
+4. Let the LLM propose condition matches and draft supported summaries. Server functions enforce tool allowlists and retrieval limits; retrieved text never authorizes tool execution.
+5. Demonstrate partial failure and clearly timestamped replay before adding visualizations. Keep domain logic outside Streamlit so a later FastAPI/React application can reuse it.
+
+The biggest failure mode is a convincing briefing whose apparent completeness exceeds its evidence coverage. Live retrieval does not establish currentness, and a replay must never masquerade as a fresh search.
+
+POSITION: Build a narrowly supported Streamlit evidence slice first, and expand toward FastAPI/React only after its provenance and coverage limits survive inspection.

@@ -1,0 +1,22 @@
+# Local environment overrides
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+.vite/
+.next/
+*.tsbuildinfo
+*.log
+data/
+.playwright-mcp/
+
+# Machine-local state
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
