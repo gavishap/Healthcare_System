@@ -11,7 +11,7 @@
   },
   {
     "folder": "omnia-vault",
-    "source_commit": "cb1eef153b9d0839e20591569b206af3064ff0dc",
+    "source_commit": "5906321e53183cbd4803c68b5fc0c4116744e97b",
     "publication": "working-tree snapshot; original Git object directories are not embedded"
   }
 ]

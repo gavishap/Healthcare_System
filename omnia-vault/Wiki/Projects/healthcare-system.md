@@ -25,7 +25,8 @@ sources:
   - Raw/Sources/2026-10-27-client-presentation.md
   - Raw/Sources/2026-10-27-client-presentation-consolidation.md
   - Raw/Sources/2026-10-27-github-consolidation.md
-source_count: 18
+  - Raw/Sources/2026-10-27-github-publication-verification.md
+source_count: 19
 aliases: []
 ---
 
@@ -60,7 +61,7 @@ The owner selects OpenAI. The runtime uses direct biomedical connectors and a bo
 
 ## Local Development Repositories
 
-The Obsidian workspace root contains three sibling repositories: `backend/`, `frontend/` and `omnia-vault/`. Application code and lockfiles live in the application repositories; this vault contains the development knowledge. The owner now authorizes one combined private [GitHub repository](https://github.com/gavishap/Healthcare_System) for their source snapshots, source attachments, `Presentation/Evidence_Desk_deck.pptx` and `AI History/`. The repository is created and its first push is pending at this preparation record. Thirteen local chat/council/Claude sessions are inventoried, with sanitized visible conversation and tool archives. Source commit identities are retained; original repositories remain intact and the vault's template origin must not receive project material.
+The Obsidian workspace root contains three sibling repositories: `backend/`, `frontend/` and `omnia-vault/`. Application code and lockfiles live in the application repositories; this vault contains the development knowledge. The owner's combined private [GitHub repository](https://github.com/gavishap/Healthcare_System) now contains their source snapshots, source attachments, `Presentation/Evidence_Desk_deck.pptx` and `AI History/`. Its initial push is verified against the remote branch and GitHub file tree. Thirteen local chat/council/Claude sessions have sanitized visible conversation and tool archives, with unique paths, counts, hashes and an active-chat capture timestamp in the manifest. Source commit identities are retained; original repositories remain intact and the vault's template origin must not receive project material. The separate combined publishing checkout is `../.publish/Healthcare_System/` relative to this vault.
 
 OpenAI and NCBI keys remain only in ignored backend configuration, loaded explicitly by the settings layer. Frontend configuration contains only a public API address. Start the full application from `backend/` with `docker compose up -d --build`. Interface: [localhost:5173](http://localhost:5173); API docs: [localhost:8000/docs](http://localhost:8000/docs). PostgreSQL persists in a named volume on local port 55432, without replacing an existing database on 5432. Actual key values are checked absent from tracked candidates and client builds.
 

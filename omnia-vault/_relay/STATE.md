@@ -1,4 +1,4 @@
-> Last handoff: 2026-10-28T00:42Z · by codex · at 14ff004 (main)
+> Last handoff: 2026-10-28T00:44Z · by codex · at cb1eef1 (main)
 
 # Relay State - the baton
 
@@ -16,9 +16,10 @@
 - The deck is now named Evidence Desk_deck. A validated three-slide independent
   PowerPoint export is prepared as `Presentation/Evidence_Desk_deck.pptx`.
 - The private GitHub repository `https://github.com/gavishap/Healthcare_System`
-  is created. The prepared consolidated checkout has backend, frontend, vault,
+  is pushed on main and its remote head/file tree are verified. It has backend, frontend, vault,
   source attachments, deck/previews and thirteen sanitized sessions in AI History.
-  Its first push is pending; original local repositories remain independent.
+  Original local repositories remain independent. The combined publishing checkout
+  is `../.publish/Healthcare_System/` relative to this vault.
 - The original-result trace and runtime limits remain in
   `Wiki/Concepts/healthcare-evidence-scope-trace.md` and
   `Wiki/Concepts/healthcare-evidence-runtime.md`. General evidence, specific
@@ -30,6 +31,11 @@
 
 ## Just landed
 
+- Published the combined source snapshot, 42 source attachments and thirteen
+  sanitized conversation/session archives. Verified unique archive paths, record
+  counts, hashes, private visibility, the deck hash and unchanged application files.
+  Initial remote commit is `2cfbaa9e4b57bd0db2fcc9100ecfbab953a22ace`; final handoff
+  updates advance main. AI History/manifest.json records the active-chat cutoff.
 - Consolidated the existing 22-slide deck into exactly three pages at the
   owner's request. They cover client value/output, the evidence workflow and
   decision path, and the working prototype with reviewed-pilot dependencies.
@@ -52,8 +58,9 @@
 
 ## Next
 
-- [ ] Push and verify the consolidated private repository; record publication
-  completion and the active-chat archive cutoff.
+- [ ] Use the combined publishing checkout for future GitHub updates; the original
+  sibling repositories retain their own local histories. Refresh the sanitized
+  archive explicitly when further conversation needs to be captured.
 - [ ] Register an accessible, applicable current US guideline and validate its
   recommendations before claiming standard-care coverage. Add FDA evidence for
   approval statements when needed.

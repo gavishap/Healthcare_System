@@ -14,7 +14,8 @@ sources:
   - Raw/Sources/2026-10-27-evidence-scope-trace.md
   - Raw/Sources/2026-10-27-client-presentation-consolidation.md
   - Raw/Sources/2026-10-27-github-consolidation.md
-source_count: 7
+  - Raw/Sources/2026-10-27-github-publication-verification.md
+source_count: 8
 aliases: []
 ---
 
@@ -30,7 +31,7 @@ The first slide introduces the client purpose, three briefing sections and analy
 
 The latest eight-record example accepts six statements for specific populations and leaves general sections unavailable. Current-care support still needs an applicable US guideline; approval statements need appropriate regulatory evidence. The deck preserves these limitations and does not claim measured accuracy, savings, medical validation or production readiness. Earlier architecture proposals are historical rather than delivered capabilities.
 
-The live native presentation is named **Evidence Desk_deck**. Reconnect its Page with the presentation tools to revise the same artifact. An independent three-slide PowerPoint export is prepared at `Presentation/Evidence_Desk_deck.pptx` in the combined [GitHub repository](https://github.com/gavishap/Healthcare_System), alongside three PNG previews. Text and workflow shapes are editable, the actual prototype screen is embedded, and source context remains in notes. Package, layout, Aptos font-policy and first-party import checks pass; native PowerPoint is not tested. No PDF is delivered.
+The live native presentation is named **Evidence Desk_deck**. Reconnect its Page with the presentation tools to revise the same artifact. An independent three-slide PowerPoint export is published at `Presentation/Evidence_Desk_deck.pptx` in the combined private [GitHub repository](https://github.com/gavishap/Healthcare_System), alongside three PNG previews. Text and workflow shapes are editable, the actual prototype screen is embedded, and source context remains in notes. Package, layout, Aptos font-policy and first-party import checks pass; native PowerPoint is not tested. No PDF is delivered.
 
 ## Related
 

@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-10-28T00:43:33.599529+00:00",
+  "captured_at_utc": "2026-10-28T00:45:02.683951+00:00",
   "primary_project_chat_count": 5,
   "codex_session_count": 9,
   "claude_session_count": 4,
@@ -17,7 +17,7 @@
         "message": 9,
         "reasoning": 24
       },
-      "file_sha256": "a9d0e7b9ad6f268b0463686004e31a4c25a46629e07d9fcccdb5b5e7e64291d8",
+      "file_sha256": "ac3a32ce86995b91b3750b511cb41b60a37a7dfdbb6c574ed360181fe0899191",
       "tool_archive_sha256": "289c9cd3c23b423add126060acccdfb2ac70261e19329ae89ba4edcd586d8a07"
     },
     {
@@ -33,7 +33,7 @@
         "message": 12,
         "reasoning": 128
       },
-      "file_sha256": "f81a54ed044c81c8fe155a5e034d1b1abe2b7d7609a98ecc5f65dc401b43aa16",
+      "file_sha256": "ff4dea2d66b2a8cd7b4c45c6b192ff87eba8158ba715e44097446943e9705863",
       "tool_archive_sha256": "38d4f7435aa1543bc1846f65ae96e6ba792edb7d0b78f436f41b6da77572e177"
     },
     {
@@ -48,7 +48,7 @@
         "message": 3,
         "reasoning": 1
       },
-      "file_sha256": "f4e535c49521fafda8ac36529c263c5c3649585a6be80af8ecc76c792e32bf63",
+      "file_sha256": "eb00a92d213116911d1fd399b2f4771b6bcedb40b6fb2939431d507bccf13af6",
       "tool_archive_sha256": "328024a362579d401150edd183fd647ecda80d4a155317f324109e447c25a41b"
     },
     {
@@ -63,7 +63,7 @@
         "message": 3,
         "reasoning": 1
       },
-      "file_sha256": "9203f71cae2bc6fd90bee75af14107ee029d3b6dd30fd18fa7c67aabeef6db10",
+      "file_sha256": "584033bcd8123a79a761a9ff56817fe61bd9f5598a5ae994d740694d6f7a313a",
       "tool_archive_sha256": "f3f71d05a894ffdd004087c1ac75b30fa19ee7dbc924a4d18d8e8168a0649f62"
     },
     {
@@ -78,7 +78,7 @@
         "message": 3,
         "reasoning": 2
       },
-      "file_sha256": "2e3dcc6c88ff8a1e68476fc1b25f028e3666f8929c6d2bff3a6764ca2cb31ed5",
+      "file_sha256": "38fac1163674ffbcd9f5197b234d70d418e95d30cc162bdda5097c723ea21d7e",
       "tool_archive_sha256": "0490bc36513219d32f6291164386983d85bc42c188c40bda485b7b1a673fc472"
     },
     {
@@ -93,7 +93,7 @@
         "message": 3,
         "reasoning": 1
       },
-      "file_sha256": "37256fd5176ce41168cdabbaf05071e4af83dcaa58d264294e521e1a99ada6b9",
+      "file_sha256": "8dd4d5d841c26975468cee59998f72961a8a4ac4dc429f47bfb51bd7db1d266d",
       "tool_archive_sha256": "946fb6ccddd9b2c596cd1dc6fd2bbd26e6df103545e242879cce020cdd497dfe"
     },
     {
@@ -109,7 +109,7 @@
         "message": 10,
         "reasoning": 33
       },
-      "file_sha256": "a6783c4cbc7c98bdab465ee2c2657c95f07422889c54ba86eb9fde211767cd8a",
+      "file_sha256": "5136dca4990c61ed012dec201bd2d1129267d49e8a5127338a598fe964465d85",
       "tool_archive_sha256": "8560da91a73962f86612ab7a9fb05e01768cf8e2cf0d0c1a53321ffd622d4054"
     },
     {
@@ -125,7 +125,7 @@
         "message": 9,
         "reasoning": 63
       },
-      "file_sha256": "beb60e3628343d26b54c0974ed3ec8473949f18f87da7ca676035900c78af451",
+      "file_sha256": "1e67e4ceb8e962269431c002b39a5dcd3f9a777d1b34fd0c1302354997f7518c",
       "tool_archive_sha256": "8c3d4be95a3b65007904f7e8ce8c8ceffbdd705fbf275f002beb5520e73d47d3"
     },
     {
@@ -134,15 +134,15 @@
       "title": "Create client pitch presentation",
       "file": "Codex/Create-client-pitch-presentation-01a17fd1.md",
       "tool_archive": "Codex/Create-client-pitch-presentation-01a17fd1.jsonl",
-      "messages": 24,
-      "visible_records": 191,
+      "messages": 25,
+      "visible_records": 200,
       "omitted_private_or_internal_record_types": {
         "additional_tools": 1,
         "message": 9,
-        "reasoning": 92
+        "reasoning": 96
       },
-      "file_sha256": "5753949832d87c5afb3b187245dd76cf678ae22b218c5e23dfa3334c0c1d4a12",
-      "tool_archive_sha256": "7052eb9887b4b268111eee4c445002f81c793e322c300c3519ffc7f7bbe204a4"
+      "file_sha256": "57c39cea2b323ac5059b20f797a86ed82d959735333457b8da3ee9af13cbbcc5",
+      "tool_archive_sha256": "ee9e07e17409c49428b35d82f0285b9c37cf9e2c60c206a8b006dc1e706c7aa0"
     },
     {
       "id": "1681ca8a-3841-472b-aced-b232179c670f",

@@ -16,7 +16,7 @@ The current active presentation/publication chat is a snapshot through the UTC t
 | [Supporting council session 01a17f8c-653e-76f1-9471-de920324503b](Council/Council-01a17f8c-653e-76f1-9471-de920324503b.md) | Codex | 3 |
 | [Draft sourcing layer action plan](Codex/Draft-sourcing-layer-action-plan-01a17f94.md) | Codex | 20 |
 | [Trace trial result mismatch](Codex/Trace-trial-result-mismatch-01a17fc0.md) | Codex | 16 |
-| [Create client pitch presentation](Codex/Create-client-pitch-presentation-01a17fd1.md) | Codex | 24 |
+| [Create client pitch presentation](Codex/Create-client-pitch-presentation-01a17fd1.md) | Codex | 25 |
 | [Claude council attempt 1681ca8a](Claude/1681ca8a-3841-472b-aced-b232179c670f.md) | Claude | 2 |
 | [Claude council attempt 88206ce6](Claude/88206ce6-8581-40a0-ad32-8c5bfdd1a3ca.md) | Claude | 2 |
 | [Claude council attempt 96e39882](Claude/96e39882-cdb6-4145-80d9-ad35aa2587f2.md) | Claude | 2 |
